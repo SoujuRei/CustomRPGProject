@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+using CustomProjectRPG.Core.Utilities;
+using CustomProjectRPG.Interfaces;
+
+namespace CustomProjectRPG
+
+{
+    public class APComponent : ISerializeJSON
+    {
+        private int _currentAP;
+        private const int _maxAP = 5;
+
+        public APComponent()
+        {
+            _currentAP = _maxAP;
+        }
+
+        public int CurrentAP => _currentAP;
+
+        public int MaxAP => _maxAP;
+
+        public bool UseAP(int amount)
+        {
+            if (amount <= 0)
+            {
+                throw new ArgumentException("AP usage must be greater than zero.");
+            }
+
+            if (_currentAP < amount)
+            {
+                return false;
+            }
+
+            _currentAP -= amount;
+            return true;
+        }
+
+        public void Reset()
+        {
+            _currentAP = _maxAP;
+        }
+
+        public bool IsDepleted() => _currentAP == 0;
+
+        public string Serialize()
+        {
+            return SerializeJSON.ToJson(_currentAP);
+        }
+
+        public void Deserialize(string json)
+        {
+            if (string.IsNullOrWhiteSpace(json)) return;
+
+            try
+            {
+                _currentAP = Math.Clamp(SerializeJSON.FromJson<int>(json), 0, _maxAP);
+            }
+            catch (InvalidOperationException)
+            {
+                _currentAP = _maxAP; // Reset to default on failure
+            }
+        }
+    }
+
+
+}

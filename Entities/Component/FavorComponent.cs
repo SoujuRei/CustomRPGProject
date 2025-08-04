@@ -1,0 +1,116 @@
+﻿using CustomProjectRPG.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+
+namespace CustomProjectRPG
+{
+
+    public class FavorComponent: ISerializeJSON<FavorComponent>
+    {
+        private Dictionary<string, int> _favorMap;
+        private Dictionary<string, int> _hiddenFavorMap;
+
+        public FavorComponent()
+        {
+            _favorMap = new Dictionary<string, int>();
+            _hiddenFavorMap = new Dictionary<string, int>();
+        }
+
+        public int GetFavor(string npcId)
+        {
+            ValidateNpcId(npcId);
+            return _favorMap.ContainsKey(npcId) ? _favorMap[npcId] : 0;
+        }
+
+        public int GetHiddenFavor(string npcId)
+        {
+            ValidateNpcId(npcId);
+            return _hiddenFavorMap.ContainsKey(npcId) ? _hiddenFavorMap[npcId] : 0;
+        }
+
+        public void AdjustFavor(string npcId, int amount)
+        {
+            ValidateNpcId(npcId);
+            if (_favorMap.ContainsKey(npcId))
+            {
+                _favorMap[npcId] += amount;
+            }
+            else
+            {
+                _favorMap[npcId] = amount;
+            }
+        }
+
+        public void AdjustHiddenFavor(string npcId, int amount)
+        {
+            ValidateNpcId(npcId);
+            if (_hiddenFavorMap.ContainsKey(npcId))
+            {
+                _hiddenFavorMap[npcId] += amount;
+            }
+            else
+            {
+                _hiddenFavorMap[npcId] = amount;
+            }
+        }
+
+        public bool CanUseFavor(string npcId, int cost)
+        {
+            ValidateNpcId(npcId);
+            return _favorMap.ContainsKey(npcId) && _favorMap[npcId] >= cost;
+        }
+
+        public bool UseFavor(string npcId, int cost)
+        {
+            if (CanUseFavor(npcId, cost))
+        {
+            _favorMap[npcId] -= cost;
+            return true;
+        }
+        return false;
+        }
+
+        public string Serialize()
+        {
+            var data = new FavorData
+            {
+                FavorMap = _favorMap,
+                HiddenFavorMap = _hiddenFavorMap
+            };
+
+            return JsonSerializer.Serialize(data);
+        }
+
+        public void Deserialize(string json)
+        {
+            if (string.IsNullOrWhiteSpace(json)) return;
+
+            var data = JsonSerializer.Deserialize<FavorData>(json);
+            _favorMap = data?.FavorMap ?? new Dictionary<string, int>();
+            _hiddenFavorMap = data?.HiddenFavorMap ?? new Dictionary<string, int>();
+        }
+
+        private void ValidateNpcId(string npcId)
+        {
+            if (string.IsNullOrWhiteSpace(npcId))
+            {
+                throw new ArgumentException("NPC ID cannot be null or empty.");
+            }
+        }
+
+        private class FavorData
+        {
+            [JsonPropertyName("favorMap")]
+            public Dictionary<string, int> FavorMap { get; set; }
+
+            [JsonPropertyName("hiddenFavorMap")]
+            public Dictionary<string, int> HiddenFavorMap { get; set; }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\msys64\home\Admin\CustomProjectRPG\bin\Debug\net9.0\CustomProjectRPG.exe
+C:\msys64\home\Admin\CustomProjectRPG\bin\Debug\net9.0\CustomProjectRPG.deps.json
+C:\msys64\home\Admin\CustomProjectRPG\bin\Debug\net9.0\CustomProjectRPG.runtimeconfig.json
+C:\msys64\home\Admin\CustomProjectRPG\bin\Debug\net9.0\CustomProjectRPG.dll
+C:\msys64\home\Admin\CustomProjectRPG\bin\Debug\net9.0\CustomProjectRPG.pdb
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.AssemblyInfoInputs.cache
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.AssemblyInfo.cs
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.csproj.CoreCompileInputs.cache
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.dll
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\refint\CustomProjectRPG.dll
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.pdb
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\CustomProjectRPG.genruntimeconfig.cache
+C:\msys64\home\Admin\CustomProjectRPG\obj\Debug\net9.0\ref\CustomProjectRPG.dll

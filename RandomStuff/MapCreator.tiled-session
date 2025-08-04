@@ -1,0 +1,19 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "obj",
+        ".",
+        "bin"
+    ],
+    "fileStates": {
+    },
+    "openFiles": [
+    ],
+    "project": "MapCreator.tiled-project",
+    "recentFiles": [
+    ]
+}

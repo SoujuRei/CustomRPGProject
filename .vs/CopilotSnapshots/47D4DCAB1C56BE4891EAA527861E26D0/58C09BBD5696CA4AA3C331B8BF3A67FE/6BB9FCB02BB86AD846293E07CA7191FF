@@ -1,0 +1,115 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Text.Json;
+using CustomProjectRPG.Interfaces;
+
+
+namespace CustomProjectRPG.Entities.Component
+{
+    public class StatsComponent: ISerializeJSON<StatsComponent>
+    {
+        private int _hp;
+        private int _maxHp;
+        private int _strength;
+        private int _defense;
+        private int _agility;
+
+        public StatsComponent(int hp, int maxHp, int strength, int defense, int agility)
+        {
+            _hp = hp;
+            _maxHp = maxHp;
+            _strength = strength;
+            _defense = defense;
+            _agility = agility;
+        }
+
+        public int Health
+        {
+            get { return _hp; }
+            set
+            {
+                if (value < 0)
+                {
+                    _hp = 0;
+                }
+                else if (value > _maxHp)
+                {
+                    _hp = _maxHp;
+                }
+                else
+                {
+                    _hp = value;
+                }
+            }
+        }
+
+        public int MaxHealth
+        {
+            get { return _maxHp; }
+        }
+
+        public int Strength
+        {
+            get { return _strength; }
+        }
+
+        public int Defense
+        {
+            get { return _defense; }
+        }
+
+        public int Agility
+        {
+            get { return _agility; }
+        }
+
+        public bool IsDead
+        {
+            get { return _hp <= 0; }
+        }
+
+
+        public string Serialize()
+        {
+            var data = new StatsData
+            {
+                Health = _hp,
+                MaxHealth = _maxHp,
+                Strength = _strength,
+                Defense = _defense,
+                Agility = _agility
+            };
+
+            return JsonSerializer.Serialize(data);
+        }
+
+        public void Deserialize(string json)
+        {
+            if (string.IsNullOrWhiteSpace(json)) return;
+
+            var data = JsonSerializer.Deserialize<StatsData>(json);
+            if (data != null)
+            {
+                _hp = data.Health;
+                _maxHp = data.MaxHealth;
+                _strength = data.Strength;
+                _defense = data.Defense;
+                _agility = data.Agility;
+            }
+        }
+
+        private class StatsData
+        {
+            public int Health { get; set; }
+            public int MaxHealth { get; set; }
+            public int Strength { get; set; }
+            public int Defense { get; set; }
+            public int Agility { get; set; }
+        }
+
+    }
+
+}

@@ -1,0 +1,96 @@
+﻿using CustomProjectRPG.Core.Utilities;
+using CustomProjectRPG.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+
+namespace CustomProjectRPG
+{
+    
+        public class CorruptionComponent : ISerializeJSON
+    {
+        private float _playerCorruption;
+        private Dictionary<string, float> _npcCorruption;
+
+        public CorruptionComponent()
+        {
+            _playerCorruption = 0f;
+            _npcCorruption = new Dictionary<string, float>();
+        }
+
+        public float PlayerCorruption => _playerCorruption;
+
+        public float GetNpcCorruption(string npcId)
+        {
+            return _npcCorruption.ContainsKey(npcId) ? _npcCorruption[npcId] : 0f;
+        }
+
+        public void IncreasePlayerCorruption(float amount)
+        {
+            _playerCorruption = Math.Clamp(_playerCorruption + amount, 0f, 100f);
+        }
+
+        public void DecreasePlayerCorruption(float amount)
+        {
+            _playerCorruption = Math.Clamp(_playerCorruption - amount, 0f, 100f);
+        }
+
+        public void IncreaseNpcCorruption(string npcId, float amount)
+        {
+            if (!_npcCorruption.ContainsKey(npcId))
+            {
+                _npcCorruption[npcId] = 0f;
+            }
+
+            _npcCorruption[npcId] = Math.Clamp(_npcCorruption[npcId] + amount, 0f, 100f);
+        }
+
+        public void DecreaseNpcCorruption(string npcId, float amount)
+        {
+            if (_npcCorruption.ContainsKey(npcId))
+            {
+                _npcCorruption[npcId] = Math.Clamp(_npcCorruption[npcId] - amount, 0f, 100f);
+            }
+        }
+
+        public string Serialize()
+        {
+            var data = new SerializableCorruptionData
+            {
+                PlayerCorruption = _playerCorruption,
+                NpcCorruption = _npcCorruption
+            };
+
+            return SerializeJSON.ToJson(data);
+        }
+
+        public void Deserialize(string json)
+        {
+            if (string.IsNullOrWhiteSpace(json)) return;
+
+            try
+            {
+                var data = SerializeJSON.FromJson<SerializableCorruptionData>(json);
+                _playerCorruption = data?.PlayerCorruption ?? 0f;
+                _npcCorruption = data?.NpcCorruption ?? new Dictionary<string, float>();
+            }
+            catch (InvalidOperationException)
+            {
+                _playerCorruption = 0f;
+                _npcCorruption = new Dictionary<string, float>();
+            }
+        }
+
+        private class SerializableCorruptionData
+        {
+            public float PlayerCorruption { get; set; }
+            public Dictionary<string, float> NpcCorruption { get; set; }
+        }
+    }
+
+}

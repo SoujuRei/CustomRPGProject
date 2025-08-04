@@ -1,0 +1,111 @@
+﻿using CustomProjectRPG.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+
+namespace CustomProjectRPG
+{
+    
+        public class CorruptionComponent : ISerializeJSON<CorruptionComponent>
+    {
+        private float _playerCorruption;
+        private Dictionary<string, float> _npcCorruption;
+
+        public CorruptionComponent()
+        {
+            _playerCorruption = 0f;
+            _npcCorruption = new Dictionary<string, float>();
+        }
+
+        public float PlayerCorruption
+        {
+            get { return _playerCorruption; }
+        }
+
+        public float GetNpcCorruption(string npcId)
+        {
+            if (_npcCorruption.ContainsKey(npcId))
+            {
+                return _npcCorruption[npcId];
+            }
+            return 0f;
+        }
+
+        public void IncreasePlayerCorruption(float amount)
+        {
+            _playerCorruption += amount;
+            if (_playerCorruption > 100f)
+            {
+                _playerCorruption = 100f;
+            }
+        }
+
+        public void DecreasePlayerCorruption(float amount)
+        {
+            _playerCorruption -= amount;
+            if (_playerCorruption < 0f)
+            {
+                _playerCorruption = 0f;
+            }
+        }
+
+        public void IncreaseNpcCorruption(string npcId, float amount)
+        {
+            if (!_npcCorruption.ContainsKey(npcId))
+            {
+                _npcCorruption[npcId] = 0f;
+            }
+
+            _npcCorruption[npcId] += amount;
+            if (_npcCorruption[npcId] > 100f)
+            {
+                _npcCorruption[npcId] = 100f;
+            }
+        }
+
+        public void DecreaseNpcCorruption(string npcId, float amount)
+        {
+            if (_npcCorruption.ContainsKey(npcId))
+            {
+                _npcCorruption[npcId] -= amount;
+                if (_npcCorruption[npcId] < 0f)
+                {
+                    _npcCorruption[npcId] = 0f;
+                }
+            }
+        }
+
+        public string Serialize()
+        {
+            var data = new SerializableCorruptionData
+            {
+                PlayerCorruption = _playerCorruption,
+                NpcCorruption = _npcCorruption
+            };
+
+            return JsonSerializer.Serialize(data);
+        }
+
+        public void Deserialize(string json)
+        {
+            var data = JsonSerializer.Deserialize<SerializableCorruptionData>(json);
+            if (data != null)
+            {
+                _playerCorruption = data.PlayerCorruption;
+                _npcCorruption = data.NpcCorruption ?? new Dictionary<string, float>();
+            }
+        }
+
+        private class SerializableCorruptionData
+        {
+            public float PlayerCorruption { get; set; }
+            public Dictionary<string, float> NpcCorruption { get; set; }
+        }
+    }
+
+}

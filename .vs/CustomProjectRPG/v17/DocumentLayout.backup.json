@@ -1,0 +1,1151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\ui\\staticasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:ui\\staticasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\corruptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\corruptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\npcentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\npcentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\loopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\loopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\iquestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\iquestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\iinteractableobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\iinteractableobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\outergodaltararea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\outergodaltararea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\tracker\\loopmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:tracker\\loopmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\requests\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:requests\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\requests\\dailyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:requests\\dailyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\iuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\iuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\iserializejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\iserializejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\ifavor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\ifavor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\icorruption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\icorruption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\icombatstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\icombatstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\component\\statscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\component\\statscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\component\\inventorycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\component\\inventorycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\component\\corruptioncomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\component\\corruptioncomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\component\\componentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\component\\componentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\component\\apcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\component\\apcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\dialogue\\dialoguenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:dialogue\\dialoguenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\dialogue\\dialoguecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:dialogue\\dialoguecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\dialogue\\dialoguebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:dialogue\\dialoguebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\hitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\hitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\gamestate\\explorationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\gamestate\\explorationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\gamestate\\combatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\gamestate\\combatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\customprojectrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:customprojectrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\dialogue\\dialoguetree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:dialogue\\dialoguetree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\component\\favorcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\component\\favorcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\beastentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\beastentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\iupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\iupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\utilities\\serializejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\utilities\\serializejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\gamestate\\startscreenstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\gamestate\\startscreenstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\gamestate\\saveloadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\gamestate\\saveloadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\iuielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\iuielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\icollidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\icollidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\entities\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:entities\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\gamestate\\igamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\gamestate\\igamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\cave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\cave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\jungle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\jungle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\shrinearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\shrinearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\core\\gamestate\\dialoguestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:core\\gamestate\\dialoguestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\randomstuff\\testmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:randomstuff\\testmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\requests\\favorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:requests\\favorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\requests\\storyquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:requests\\storyquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\interfaces\\idaylistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:interfaces\\idaylistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|c:\\msys64\\home\\admin\\customprojectrpg\\world\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C64C7F-9874-77B3-873D-A8AC639DCFB3}|CustomProjectRPG.csproj|solutionrelative:world\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CorruptionManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\CorruptionManager.cs",
+              "RelativeDocumentMoniker": "Manager\\CorruptionManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\CorruptionManager.cs",
+              "RelativeToolTip": "Manager\\CorruptionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:20:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollisionManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\CollisionManager.cs",
+              "RelativeDocumentMoniker": "Manager\\CollisionManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\CollisionManager.cs",
+              "RelativeToolTip": "Manager\\CollisionManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:34:28.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticAsset.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\UI\\StaticAsset.cs",
+              "RelativeDocumentMoniker": "UI\\StaticAsset.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\UI\\StaticAsset.cs",
+              "RelativeToolTip": "UI\\StaticAsset.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:45:31.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Area.cs",
+              "RelativeDocumentMoniker": "World\\Area.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Area.cs",
+              "RelativeToolTip": "World\\Area.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Entities\\Entity.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Entity.cs",
+              "RelativeToolTip": "Entities\\Entity.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:14:27.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NPCEntity.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\NPCEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\NPCEntity.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\NPCEntity.cs",
+              "RelativeToolTip": "Entities\\NPCEntity.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:30:01.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoopManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\LoopManager.cs",
+              "RelativeDocumentMoniker": "Manager\\LoopManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\LoopManager.cs",
+              "RelativeToolTip": "Manager\\LoopManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:19:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CombatManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\CombatManager.cs",
+              "RelativeDocumentMoniker": "Manager\\CombatManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\CombatManager.cs",
+              "RelativeToolTip": "Manager\\CombatManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:17:54.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQuestManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IQuestManager.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IQuestManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IQuestManager.cs",
+              "RelativeToolTip": "Interfaces\\IQuestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:49:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Item\\Item.cs",
+              "RelativeDocumentMoniker": "Entities\\Item\\Item.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Item\\Item.cs",
+              "RelativeToolTip": "Entities\\Item\\Item.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:11:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInteractableObjects.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\IInteractableObjects.cs",
+              "RelativeDocumentMoniker": "World\\IInteractableObjects.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\IInteractableObjects.cs",
+              "RelativeToolTip": "World\\IInteractableObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:10.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OuterGodAltarArea.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\OuterGodAltarArea.cs",
+              "RelativeDocumentMoniker": "World\\OuterGodAltarArea.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\OuterGodAltarArea.cs",
+              "RelativeToolTip": "World\\OuterGodAltarArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "UI\\UIManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\UI\\UIManager.cs",
+              "RelativeToolTip": "UI\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T23:42:36.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoopMemory.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Tracker\\LoopMemory.cs",
+              "RelativeDocumentMoniker": "Tracker\\LoopMemory.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Tracker\\LoopMemory.cs",
+              "RelativeToolTip": "Tracker\\LoopMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:16:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\Request.cs",
+              "RelativeDocumentMoniker": "Requests\\Request.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\Request.cs",
+              "RelativeToolTip": "Requests\\Request.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:34:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DailyRequest.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\DailyRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\DailyRequest.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\DailyRequest.cs",
+              "RelativeToolTip": "Requests\\DailyRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:54:14.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Manager\\SaveLoadManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\SaveLoadManager.cs",
+              "RelativeToolTip": "Manager\\SaveLoadManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:20:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Manager\\QuestManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\QuestManager.cs",
+              "RelativeToolTip": "Manager\\QuestManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:18:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Manager\\AudioManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Manager\\AudioManager.cs",
+              "RelativeToolTip": "Manager\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:20:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUIManager.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IUIManager.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUIManager.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IUIManager.cs",
+              "RelativeToolTip": "Interfaces\\IUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T23:43:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISerializeJSON.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ISerializeJSON.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISerializeJSON.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ISerializeJSON.cs",
+              "RelativeToolTip": "Interfaces\\ISerializeJSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:48:11.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "Interfaces\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:35:51.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFavor.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IFavor.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFavor.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IFavor.cs",
+              "RelativeToolTip": "Interfaces\\IFavor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T23:45:14.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICorruption.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICorruption.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICorruption.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICorruption.cs",
+              "RelativeToolTip": "Interfaces\\ICorruption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:24:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IContainer.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IContainer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IContainer.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IContainer.cs",
+              "RelativeToolTip": "Interfaces\\IContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICommand.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:36:59.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICombatStrategy.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICombatStrategy.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICombatStrategy.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICombatStrategy.cs",
+              "RelativeToolTip": "Interfaces\\ICombatStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:36:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StatsComponent.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\StatsComponent.cs",
+              "RelativeDocumentMoniker": "Entities\\Component\\StatsComponent.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\StatsComponent.cs",
+              "RelativeToolTip": "Entities\\Component\\StatsComponent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:06:42.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InventoryComponent.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\InventoryComponent.cs",
+              "RelativeDocumentMoniker": "Entities\\Component\\InventoryComponent.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\InventoryComponent.cs",
+              "RelativeToolTip": "Entities\\Component\\InventoryComponent.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:09:15.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CorruptionComponent.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\CorruptionComponent.cs",
+              "RelativeDocumentMoniker": "Entities\\Component\\CorruptionComponent.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\CorruptionComponent.cs",
+              "RelativeToolTip": "Entities\\Component\\CorruptionComponent.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAgwKQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:49:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ComponentFactory.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\ComponentFactory.cs",
+              "RelativeDocumentMoniker": "Entities\\Component\\ComponentFactory.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\ComponentFactory.cs",
+              "RelativeToolTip": "Entities\\Component\\ComponentFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:29:45.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "APComponent.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\APComponent.cs",
+              "RelativeDocumentMoniker": "Entities\\Component\\APComponent.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\APComponent.cs",
+              "RelativeToolTip": "Entities\\Component\\APComponent.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:44:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayerEntity.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\PlayerEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\PlayerEntity.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\PlayerEntity.cs",
+              "RelativeToolTip": "Entities\\PlayerEntity.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:42:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DialogueNode.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueNode.cs",
+              "RelativeDocumentMoniker": "Dialogue\\DialogueNode.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueNode.cs",
+              "RelativeToolTip": "Dialogue\\DialogueNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:11:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DialogueComponent.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueComponent.cs",
+              "RelativeDocumentMoniker": "Dialogue\\DialogueComponent.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueComponent.cs",
+              "RelativeToolTip": "Dialogue\\DialogueComponent.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DialogueBox.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueBox.cs",
+              "RelativeDocumentMoniker": "Dialogue\\DialogueBox.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueBox.cs",
+              "RelativeToolTip": "Dialogue\\DialogueBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:11:34.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Vector2D.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\Vector2D.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Vector2D.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\Vector2D.cs",
+              "RelativeToolTip": "Core\\Utilities\\Vector2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:02:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\IDraw.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IDraw.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\IDraw.cs",
+              "RelativeToolTip": "Core\\Utilities\\IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:16:02.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Hitbox.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\Hitbox.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Hitbox.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\Hitbox.cs",
+              "RelativeToolTip": "Core\\Utilities\\Hitbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:02:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\EventBus.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\EventBus.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\EventBus.cs",
+              "RelativeToolTip": "Core\\Utilities\\EventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:24:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\Animation.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Animation.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\Animation.cs",
+              "RelativeToolTip": "Core\\Utilities\\Animation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:25:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ExplorationState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\ExplorationState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState\\ExplorationState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\ExplorationState.cs",
+              "RelativeToolTip": "Core\\GameState\\ExplorationState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:09:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CombatState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\CombatState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState\\CombatState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\CombatState.cs",
+              "RelativeToolTip": "Core\\GameState\\CombatState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:09:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Core\\Game\\Program.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Game\\Program.cs",
+              "RelativeToolTip": "Core\\Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:17:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomProjectRPG.csproj",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\CustomProjectRPG.csproj",
+              "RelativeDocumentMoniker": "CustomProjectRPG.csproj",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\CustomProjectRPG.csproj",
+              "RelativeToolTip": "CustomProjectRPG.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T06:15:57.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DialogueTree.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueTree.cs",
+              "RelativeDocumentMoniker": "Dialogue\\DialogueTree.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Dialogue\\DialogueTree.cs",
+              "RelativeToolTip": "Dialogue\\DialogueTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:11:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FavorComponent.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\FavorComponent.cs",
+              "RelativeDocumentMoniker": "Entities\\Component\\FavorComponent.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Component\\FavorComponent.cs",
+              "RelativeToolTip": "Entities\\Component\\FavorComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:28:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BeastEntity.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\BeastEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BeastEntity.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\BeastEntity.cs",
+              "RelativeToolTip": "Entities\\BeastEntity.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIA6wEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:04:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUpdate.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\IUpdate.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IUpdate.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\IUpdate.cs",
+              "RelativeToolTip": "Core\\Utilities\\IUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SerializeJSON.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\SerializeJSON.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\SerializeJSON.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\Utilities\\SerializeJSON.cs",
+              "RelativeToolTip": "Core\\Utilities\\SerializeJSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:50:47.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StartScreenState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\StartScreenState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState\\StartScreenState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\StartScreenState.cs",
+              "RelativeToolTip": "Core\\GameState\\StartScreenState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:10:49.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SaveLoadState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\SaveLoadState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState\\SaveLoadState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\SaveLoadState.cs",
+              "RelativeToolTip": "Core\\GameState\\SaveLoadState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:09:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IUIElement.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IUIElement.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUIElement.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IUIElement.cs",
+              "RelativeToolTip": "Interfaces\\IUIElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:10.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICollidable.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICollidable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICollidable.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\ICollidable.cs",
+              "RelativeToolTip": "Interfaces\\ICollidable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Enum\\Enum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enum\\Enum.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Enum\\Enum.cs",
+              "RelativeToolTip": "Entities\\Enum\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T20:39:05.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IGameState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\IGameState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState\\IGameState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\IGameState.cs",
+              "RelativeToolTip": "Core\\GameState\\IGameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:04:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Jungle.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Jungle.cs",
+              "RelativeDocumentMoniker": "World\\Jungle.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Jungle.cs",
+              "RelativeToolTip": "World\\Jungle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ShrineArea.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\ShrineArea.cs",
+              "RelativeDocumentMoniker": "World\\ShrineArea.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\ShrineArea.cs",
+              "RelativeToolTip": "World\\ShrineArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Village.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Village.cs",
+              "RelativeDocumentMoniker": "World\\Village.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Village.cs",
+              "RelativeToolTip": "World\\Village.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Cave.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Cave.cs",
+              "RelativeDocumentMoniker": "World\\Cave.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Cave.cs",
+              "RelativeToolTip": "World\\Cave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Home.cs",
+              "RelativeDocumentMoniker": "World\\Home.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\World\\Home.cs",
+              "RelativeToolTip": "World\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:15:09.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DialogueState.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\DialogueState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState\\DialogueState.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Core\\GameState\\DialogueState.cs",
+              "RelativeToolTip": "Core\\GameState\\DialogueState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:10:12.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TestMap.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\RandomStuff\\TestMap.cs",
+              "RelativeDocumentMoniker": "RandomStuff\\TestMap.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\RandomStuff\\TestMap.cs",
+              "RelativeToolTip": "RandomStuff\\TestMap.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:34:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FavorRequest.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\FavorRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\FavorRequest.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\FavorRequest.cs",
+              "RelativeToolTip": "Requests\\FavorRequest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:54:21.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Enum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enum.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Entities\\Enum.cs",
+              "RelativeToolTip": "Entities\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:46:38.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "StoryQuest.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\StoryQuest.cs",
+              "RelativeDocumentMoniker": "Requests\\StoryQuest.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Requests\\StoryQuest.cs",
+              "RelativeToolTip": "Requests\\StoryQuest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:54:38.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IDayListener.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IDayListener.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDayListener.cs",
+              "ToolTip": "C:\\msys64\\home\\Admin\\CustomProjectRPG\\Interfaces\\IDayListener.cs",
+              "RelativeToolTip": "Interfaces\\IDayListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:36:32.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
